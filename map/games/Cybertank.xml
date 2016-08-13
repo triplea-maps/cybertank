@@ -5527,10 +5527,10 @@
       <option name="production" value="0"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Europe-1013" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Europe-1014" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Europe-1015" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="5"/>
@@ -5541,7 +5541,7 @@
       <option name="victoryCity" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Europe-1112" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Europe-203" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="5"/>
@@ -5556,20 +5556,20 @@
       <option name="victoryCity" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Europe-508" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Europe-509" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Europe-610" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="5"/>
       <option name="victoryCity" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Europe-611" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Europe-813" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Europe-908" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="10"/>
@@ -5577,7 +5577,7 @@
       <option name="capital" value="Europe"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Europe-915" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-102" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="5"/>
@@ -5592,37 +5592,37 @@
       <option name="victoryCity" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-313" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-314" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-402" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-411" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-414" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-506" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-507" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-512" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-513" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-514" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-516" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-601" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="5"/>
@@ -5633,16 +5633,16 @@
       <option name="victoryCity" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-605" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-606" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-607" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-610" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-612" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="10"/>
@@ -5650,16 +5650,16 @@
       <option name="capital" value="MidEast"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-706" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-707" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-708" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-709" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="MidEast-816" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="5"/>
@@ -5675,42 +5675,42 @@
       <option name="capital" value="NorAm"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-309" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-310" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-311" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-408" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-409" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="5"/>
       <option name="victoryCity" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-410" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-512" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-513" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-515" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="5"/>
       <option name="victoryCity" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-614" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-615" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-715" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-716" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="5"/>
@@ -5721,10 +5721,10 @@
       <option name="victoryCity" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-816" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-817" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="NorAm-903" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="5"/>
@@ -5748,7 +5748,7 @@
       <option name="victoryCity" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Russia-411" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Russia-415" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="5"/>
@@ -5759,10 +5759,10 @@
       <option name="victoryCity" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Russia-511" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Russia-512" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Russia-814" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="5"/>
