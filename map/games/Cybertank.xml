@@ -6485,7 +6485,7 @@
     <property name="LHTR Carrier production rules" value="false" editable="false">
       <boolean/>
     </property>
-    <property name="Naval Bombard Casualties Return Fire Restricted" value="false" editable="false">
+    <property name="Naval Bombard Casualties Return Fire" value="false" editable="false">
       <boolean/>
     </property>
     <property name="Occupied Territories" value="false" editable="false">
