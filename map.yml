@@ -1,0 +1,3 @@
+map_name: cybertank
+games:
+- {game_name: Cybertank, file_name: Cybertank.xml}
