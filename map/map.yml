@@ -1,0 +1,5 @@
+map_name: Cybertank
+games:
+- game_name: Cybertank
+  file_name: Cybertank.xml
+version: 0
